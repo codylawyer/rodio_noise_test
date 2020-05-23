@@ -1,0 +1,12 @@
+[package]
+name = "rodio_noise_test"
+version = "0.1.0"
+authors = ["Cody Lawyer <codylawyer@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rodio = "0.11.0"
+rand = "0.7.3"
+rand_distr = "0.2.2"
